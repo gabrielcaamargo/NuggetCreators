@@ -28,7 +28,7 @@ The app is built with a modern mobile stack for performance and scalability:
 ## 🚀 About Nugget
 
 Nugget’s mission is to make learning **affordable, accessible, and engaging**.  
-Instead of overwhelming catalogs and expensive courses, Nugget focuses on **bite-sized micro-courses** that anyone can buy for just **$5** — simple, focused, and ready to use.  
+Instead of overwhelming catalogs and expensive courses, Nugget focuses on **bite-sized micro-courses** that anyone can buy for a cheap value — simple, focused, and ready to use.  
 
 Creators gain a fair platform to monetize their expertise, and learners get fast access to practical knowledge.  
 
